@@ -41,7 +41,7 @@ The second dashboard focuses on the impact of HIV/AIDS on Tuberculosis burden. C
 <img src="images/impact_of_HIV_dashboard.png" alt="World Tuberculosis Burden - Impact of HIV/AIDS" style="width:50%; height: 50%"/>
 
 ### Check accessibility
-Red/Green color blindness is a major concern when picking colors for descriptive visuals. Both dashboards were designed with this in mind, and run through red-green color blindness simulations to test whether the color themes would be effective for those with red-green color deficiency. The following visuals were generated:
+Red/Green color blindness is a major concern when picking colors for descriptive visuals. Both dashboards were designed with this in mind, and run through red-green color blindness simulations to test effectiveness. The following visuals were generated:
 
 <img src="images/Dashboard1_redGreenSafe.png" alt="Dashboard 1 with simulated color deficiency" style="width:55%; height:55%"/> <img src="images/Dashboard2_redGreenSafe.png" alt="Dashboard 2 with simulated color deficiency" style="width:30%; height:30%"/> 
 
