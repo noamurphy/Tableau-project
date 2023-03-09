@@ -9,8 +9,8 @@
 With the TB_burden dataset is was important to understand the number of nulls in each column, to make sure agregate values that included some years/countries were not incorrectly compared to those that did not. This exploration of the dataset is python notebook that can be found [here](Data_exploration.ipynb). 
 Research on Tuberculosis was necessary to understand the metrics of the diseease, as well as common metrics for a pandemic. This research was summarized into [A Brief Overview of Tuberculosis](A%20Brief%20Overview%20of%20Tuberculosis.pdf).
 
-### Sketch potential visuals and dashboard compositions
-Before any visuals can be created, they need to be intnentionally designed. Potential visuals were hand sketched to identify those that might have good synergy in describing metrics. These visuals were then combined in dashboard layout sketches to explore ideal compositions. Finally, the dashboard sketches were converted into container hierarchies for efficient translation of the dashboard designs into Tableau.
+### Sketch visuals and dashboard compositions
+Before visuals can be created, they need to be designed. Potential visuals were hand sketched to identify those that might be best for describing TB metrics. These visuals were then combined in dashboard layout sketches to explore compositions. Finally, the dashboard sketches were converted into container hierarchies for efficient translation of the dashboard designs into Tableau.
 
 ### Create visuals
 Implementation of sketches into the visuals that would make up each dashboard yielded the following charts:
